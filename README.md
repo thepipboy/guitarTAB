@@ -2,7 +2,7 @@ Based on the Major chord 1 3 5 && minor chord 1 b3 5 (Tonality)
 
 sus 1 2 5 || sus 1 4 5    (Color）
 
-seventh chord 1 3 5 7 != 1 3 5 b7
+seventh chord 1 3 5 7 != 1 3 5 b7 (A Period)
 
 Augmented  Chord and DIMinished Chord  (Exticed OR Relaxed)
 
