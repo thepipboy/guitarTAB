@@ -8,7 +8,7 @@ Augmented  Chord and DIMinished Chord  (Exticed OR Relaxed)
 
 Harmonic sound of The Hz, 
 
-neat UI bewtween cheap and expensive
+neat UI between cheap and expensive
 
 put MIDI Sound and tonality together
 
