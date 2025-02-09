@@ -1,0 +1,2 @@
+<echo?$argc 
+!argv></echo>

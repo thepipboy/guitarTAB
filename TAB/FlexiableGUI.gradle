@@ -1,0 +1,23 @@
+plugins {
+    id 'application'
+    id 'org.openjfx.javafxplugin' version '0.0.13'
+}
+
+repositories {
+    mavenCentral()
+}
+
+javafx {
+    version = "17.0.2"
+    modules = ['javafx.controls', 'javafx.fxml']
+}
+
+application {
+    mainClass = 'com.example.flexiblegui.FlexibleGUIApp'
+}
+
+run {
+    if (System.getProperty("os.name").toLowerCase().contains("mac")) {
+        jvmArgs = ['--add-exports', 'javafx.graphics/com.sun.javafx.tk=ALL-UNNAMED']
+    }
+}
